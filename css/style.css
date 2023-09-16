@@ -1,0 +1,126 @@
+#textwhite {
+    color: white;
+  }
+
+  .name {
+    font-size: 23px;
+    font-weight: 500;
+  }
+
+  .icon1 {
+    color: orange;
+    font-size: 30px;
+  }
+
+  .links:hover {
+    background-color: rgb(255, 140, 0);
+    border-radius: 30px;
+  }
+
+  li a {
+    padding: 5px;
+  }
+
+  #header {
+    position: relative;
+  }
+
+  .fav {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    right: 5px;
+    top: 7px;
+  }
+
+  .fav:hover {
+    background-color: #fd7a00;
+    color: #fff;
+  }
+
+  .orders {
+    background-color: #000;
+  }
+
+  .orders:hover {
+    background-color: #fd7a00;
+    font-size: 1.1rem;
+  }
+
+  .icon {
+    color: rgb(255, 128, 0);
+  }
+
+  section {
+    padding: 60px 0;
+  }
+
+  .button .navbar-toggler-icon {
+    color: #ffffff;
+    font-size: 25px;
+  }
+
+  .img {
+    height: 5rem;
+    width: 5rem;
+    object-fit: cover;
+  }
+
+  .quote {
+    margin-top: -35px;
+    font-size: 60px;
+    color: #b6b4b4;
+  }
+
+  .insh {
+    box-shadow: 0 0 5px 3px rgb(238, 228, 228);
+  }
+
+  .Adress {
+    padding: 100px;
+    border-radius: 30px;
+  }
+
+  .link {
+    text-decoration: none;
+  }
+
+  .icons {
+    background-color: #fff;
+  }
+
+  .icons:hover {
+    background-color: #fd7a00;
+    color: #fff;
+  }
+
+  .footer ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+
+  .footer ul li a:hover {
+    text-decoration: underline;
+    color: orangered;
+    font-size: 20px;
+  }
+
+  #txtwhite {
+    color: #fff;
+  }
+
+  .footer a {
+    opacity: 0.7;
+  }
+
+  .footer ul li {
+    list-style: none;
+  }
+
+  .textarea {
+    border-radius: 20px;
+    resize: none;
+  }
+  .texticon{
+    margin-left: 1px;
+  }
